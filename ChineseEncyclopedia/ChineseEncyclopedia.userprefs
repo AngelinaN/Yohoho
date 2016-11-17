@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="ChineseEncyclopedia\ChineseEncyclopedia.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChineseEncyclopedia\Program.cs">
+    <Files>
+      <File FileName="ChineseEncyclopedia\Program.cs" Line="9" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

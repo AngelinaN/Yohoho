@@ -1,0 +1,4 @@
+C:\aula\gluposti\ChineseEncyclopedia\ChineseEncyclopedia\bin\Release\ChineseEncyclopedia.exe
+C:\aula\gluposti\ChineseEncyclopedia\ChineseEncyclopedia\bin\Release\ChineseEncyclopedia.pdb
+C:\aula\gluposti\ChineseEncyclopedia\ChineseEncyclopedia\obj\x86\Release\ChineseEncyclopedia.exe
+C:\aula\gluposti\ChineseEncyclopedia\ChineseEncyclopedia\obj\x86\Release\ChineseEncyclopedia.pdb
